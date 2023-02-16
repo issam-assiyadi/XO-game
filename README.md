@@ -1,5 +1,5 @@
 # XO Game in C++ #
-_________________________________________________________________
+
 
 This is a simple Tic-Tac-Toe game developed in C++. It allows two players to play the classic game of Tic-Tac-Toe on the command line.
 
