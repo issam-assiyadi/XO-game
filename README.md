@@ -26,7 +26,7 @@ Follow the prompts to play the game.
 
 ## Credits ##
 
-This game was developed by **Issam Assiyadi** ,**elMehdi Gaga** and **Abdhadi Ahram**  as a personal project to practice C++ programming skills.
+This game was developed by **Issam Assiyadi** ,**elMehdi Gaga** and **Abdhadi Ahram**  as a  project to practice C++ programming skills.
 
 Elmehdi GAGA repositery : https://github.com/elmahdigaga/tic-tac-toe
 ## License ##
